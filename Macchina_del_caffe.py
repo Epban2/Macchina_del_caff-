@@ -1,5 +1,5 @@
 # RICCARDO LA ROCCA
-# Macchina del caffe' in python
+# Macchina del caffè in python
 
 MENU = {
     "espresso": {
@@ -157,7 +157,7 @@ machine_wallet = 0
 
 totale_input = 0
 
-while is_on:  # inizializzato a True, continua finche' non cambia stato (off in input)
+while is_on:  # inizializzato a True, continua finché non cambia stato (off)
     if is_on:
         stringa_Input = input('What would you like? (espresso/latte/cappuccino/prices): ').lower()
 
